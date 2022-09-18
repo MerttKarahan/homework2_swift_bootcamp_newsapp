@@ -1,0 +1,6 @@
+framework module Pods_NewsApp_Bootcamp {
+  umbrella header "Pods-NewsApp.Bootcamp-umbrella.h"
+
+  export *
+  module * { export * }
+}
